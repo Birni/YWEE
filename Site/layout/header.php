@@ -21,7 +21,7 @@
         -->
        <!--Div Box für logo img-->
 	   <div id= "logo">
-	   <img src="test_02/images/logo.gif" class="logo">
+	   <img src="/images/logo.gif" class="logo">
 	   </div>
 	   
 	   <!--Slideshow. die texte sind nicht must have und können auch entfernt werden img-->
